@@ -44,5 +44,5 @@ To run the analysis notebook for the Superstore Sales dataset, you can use Jupyt
 
 Click the badge below to open the analysis notebook in Google Colab:  
 
-[![Open In Colab](https://colab.research.google.com/drive/1RyCGTvlkl9eNoBJOZ8NP7mk1xpjVPGyJ?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RyCGTvlkl9eNoBJOZ8NP7mk1xpjVPGyJ?usp=sharing)
 
