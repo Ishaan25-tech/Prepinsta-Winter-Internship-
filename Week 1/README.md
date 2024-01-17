@@ -1,4 +1,4 @@
-# PrepInsta Data Analytics Internship - Week 1
+# PrepInsta Data Analytics Internship - Week 1 
 
 Welcome to my Week 1 progress in the PrepInsta Data Analytics Internship! 🚀 In this repository, you'll find an overview of the tasks completed during the first week and the insights gained.
 
