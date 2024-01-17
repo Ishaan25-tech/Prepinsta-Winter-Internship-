@@ -2,7 +2,8 @@
 
 Welcome to my Week 1 progress in the PrepInsta Data Analytics Internship! 🚀 In this repository, you'll find an overview of the tasks completed during the first week and the insights gained.
 
-![Dashboard Image](Dashboard.png)
+![Screenshot (76)](https://github.com/Ishaan25-tech/Prepinsta-Winter-Internship-/assets/67230052/6dac104e-64cb-4857-9b8f-7d9292788af5)
+
 
 ## Tasks Completed
 
