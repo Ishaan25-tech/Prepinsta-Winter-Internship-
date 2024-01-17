@@ -6,10 +6,10 @@ Then notebooks cover a variety of analyses on two datasets, including handling m
 ## Analysis Notebooks
 
 1. **Dataset 1 Analysis:**
-   - **Google Colab Notebook:** [Click to view](https://colab.research.google.com/drive/1SxzoImiaeMoA34PmmqFLQfdF1kyoaLbp?usp=sharing)
+   - **Google Colab Notebook:** [Click to view](https://colab.research.google.com/drive/1YnQNHuFl1SHOZ73RXDMwHaWj5oQNOxsa?usp=sharing)
    - **Description:** This notebook examines the dataset for missing values in each indicator (e.g., Age, Salary, Rating) and provides recommendations on how to handle them for each indicator. The analysis aims to ensure data completeness and integrity for further analysis.
 2. **Dataset 2 Analysis:**
-   - **Google Colab Notebook:** [Click to view](https://colab.research.google.com/drive/1k9_w05cA-OdlJHCZ_6F54lRaRsLSQMB9?usp=sharing)
+   - **Google Colab Notebook:** [Click to view](https://colab.research.google.com/drive/1zSmR0viRBce7F43_3rqyD-WAxLgD-2Ka?usp=sharing)
    - **Description:** This analysis involves verifying the data types of each column in the Chipotle dataset, including Order ID, Quantity, Item Name, Choice Description, and Item Price. The goal is to ensure that the data types align with their expected types (e.g., numerical, categorical) and determine if any adjustments are necessary for accurate analysis.
 
 ## Dependencies
@@ -28,4 +28,4 @@ To run the analysis notebooks:
 
 ## Feedback
 
-If you have any feedback or suggestions regarding the analysis or code, please feel free to [contact me](mailto:rahulkannan0784@gmail.com).
+If you have any feedback or suggestions regarding the analysis or code, please feel free to [contact me](mailto:ioberoi001@gmail.com).
