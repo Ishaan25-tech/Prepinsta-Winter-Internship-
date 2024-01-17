@@ -1,4 +1,4 @@
-# Frog Leap Puzzle Game
+# Frog Leap Puzzle Game Problem
 
 This is a Python implementation of the classic "Frog Leap" puzzle game. In this game, the player must move a set of frogs from the left side of the screen to the right side, and vice versa, by following certain rules.
 
