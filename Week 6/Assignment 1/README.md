@@ -38,7 +38,7 @@ The analysis is performed using Python programming language and various librarie
 
 To run the analysis notebook for the Indian Cars dataset, you can use Google Colab. Click on the following link to access the notebook:
 
-[![Open In Colab](https://colab.research.google.com/drive/155_3R5NgV3RnJDYcdEIXOgvPfGMb93vy?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/155_3R5NgV3RnJDYcdEIXOgvPfGMb93vy?usp=sharing)
 
 
 ## Getting Started
